@@ -1,0 +1,43 @@
+Guidelines:
+
+- Follow the key in the README of the repo.
+
+---
+
+Follow this format:
+
+```md
+# Module 1
+
+## Section title
+
+> Lorem ipsum dolor sit amet.
+
+Lorem ipsum dolor sit amet.
+
+![Alt text goes here](/path/to/image.png)
+
+Page n\
+⚠️
+
+---
+
+> Lorem ipsum dolor sit amet.
+
+Lorem ipsum dolor sit amet. Nitpick here. Grammar issue here. Nitpick here.
+
+![Alt text goes here](/path/to/image.png)
+
+Page 9001\
+🤓ℹ️ℹ️
+```
+
+Explanation:
+
+- h1 is which module number
+- h2's are sections
+- Separate corrections with horizontal lines (`---`)
+- Include alt-text
+- If there's multiple corrections in a single correction "slot", then list the emoji for each one's type.
+
+The format for a question be adapted as needed, but this should work for most stuff.
