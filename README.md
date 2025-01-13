@@ -10,9 +10,9 @@ Check out the [modules](/modules/) for details on each module.
 
 ## Key
 
-🤓: Grammatical issue/typo\ - self-descriptive
-ℹ️: Nitpick\ - Not necessarily wrong, or a very minor issue
-🥴: Not wrong per se, just bad in my opinion
-🚧: Mislabelled/odd or obscure name - Something is called the wrong name, or an odd/obscure name
-⚠️: Minor issue\ - A minor issue
+🤓: Grammatical issue/typo - self-descriptive\
+ℹ️: Nitpick - Not necessarily wrong, or a very minor issue\
+🥴: Not wrong per se, just bad in my opinion\
+🚧: Mislabelled/odd or obscure name - Something is called the wrong name, or an odd/obscure name\
+⚠️: Minor issue - A minor issue\
 ❌: Completely wrong - There's a major issue/something is completely wrong
